@@ -1,5 +1,5 @@
-### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, 
-### I am Prajwal S Venkatesh!
+### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+## I am Prajwal S Venkatesh!
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
