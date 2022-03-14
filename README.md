@@ -21,7 +21,7 @@
 
 - 📝 I started to write articles, check them out [here](https://prajwalsv.dev/blog)
 
-- 📄 To know about my work-ex, download my resume [here](https://resume.prajwalsv.dev) or visit my [Webfolio](https://resume.prajwalsv.dev/#experience)
+- 📄 To know about my work-ex, download my resume [here](https://resume.prajwalsv.dev) or visit my [Webfolio](https://www.prajwalsv.dev/#experience)
 
 - ⚡ Fun fact **I think I'm funny**
 
