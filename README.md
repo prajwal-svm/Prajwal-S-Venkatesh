@@ -13,25 +13,19 @@
 
 <p align="center"> <a href="https://twitter.com/__prajwal_sv__" target="blank"><img src="https://img.shields.io/twitter/follow/__prajwal_sv__?logo=twitter&style=for-the-badge" alt="__prajwal_sv__" /></a> </p>
 
-- 🔭 I’m currently working on building [Certa](https://app.edulastic.com), which is a **no-code workflow & integration platform**.
+- 🔭 I’m currently working on building [Certa 2.0](https://app.edulastic.com), which is a **no-code workflow & integration platform**.
 
-- 🌱 I’m currently learning **about Web Vitals**
+- 🌱 I’m currently learning about **Web3** & **Machine Learning**
 
 - 👨‍💻 All of my projects are showcased here [here](https://prajwalsv.dev/#work)
 
-- 📝 I started to write articles, check them out [here](https://prajwalsv.dev/blog)
+- 📝 I started to write articles, check them out [here](https://blog.prajwalsv.dev)
 
 - 📄 To know about my work-ex, download my resume [here](https://resume.prajwalsv.dev) or visit my [Webfolio](https://www.prajwalsv.dev/#experience)
-
-- ⚡ Fun fact **I think I'm funny**
 
 - 💬 Ask me about **anything related to coding!**
 
 - 📫 Shoot me an email at **contact@prajwalsv.dev** or send a message directly from [here](https://www.prajwalsv.dev/#contact)
-
-<!-- ### Blogs posts -->
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Most Used Languages, Frameworks & Tools:</h3>
 <p align="left"> 
