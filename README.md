@@ -14,7 +14,7 @@
 
 <h3 align="left">🚀 About Me:</h3>
 
-- 🔭 I’m currently pursuing my master's in Computer Science.
+- 🔭 I’m currently pursuing my master's in Computer Science at Illinois Tech.
 - 💻 I specialize in developing user-friendly and visually appealing web solutions.
 - 🌱 I’m passionate about building scalable applications with exceptional digital experiences.
 - 🎓 I have around 3 years of experience in the software industry.
