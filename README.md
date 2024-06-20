@@ -11,6 +11,10 @@
   <img src="https://komarev.com/ghpvc/?username=prajwal-s-venkatesh&label=Profile%20views&color=brightgreen&style=flat" alt="prajwal-s-venkatesh" />
 </p>
 
+<p align="center">
+  <img src="https://profile-counter.glitch.me/prajwal-s-venkatesh/count.svg" alt="prajwal-s-venkatesh" />
+</p>
+
 <h3 align="left">🚀 About Me:</h3>
 
 - 🔭 I’m currently pursuing my master's in Computer Science at Illinois Tech.
