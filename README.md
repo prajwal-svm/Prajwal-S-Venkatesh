@@ -11,9 +11,11 @@
   <img src="https://komarev.com/ghpvc/?username=prajwal-s-venkatesh&label=Profile%20views&color=brightgreen&style=flat" alt="prajwal-s-venkatesh" />
 </p>
 
-<p align="center">
+<!--
+<p align="center" style="visibility: hidden; position: absolute;">
   <img src="https://profile-counter.glitch.me/prajwal-s-venkatesh/count.svg" alt="prajwal-s-venkatesh" />
 </p>
+-->
 
 <h3 align="left">🚀 About Me:</h3>
 
