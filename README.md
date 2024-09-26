@@ -1,8 +1,8 @@
 ![github-header-image (2)](https://github.com/Prajwal-S-Venkatesh/Prajwal-S-Venkatesh/assets/53730619/22115b13-e63a-41dd-a455-7a3978cb0926)
 
 <p align="center">
-  <a href="https://www.prajwalsv.dev/">Portfolio</a> •
-  <a href="https://blog.prajwalsv.dev">Blog</a> •
+  <a href="https://www.prajwal.me/">Portfolio</a> •
+  <a href="https://www.prajwal.me/blog/">Blog</a> •
   <a href="https://resume.prajwalsv.dev">Resume</a> •
   <a href="https://www.linkedin.com/in/prajwal-s-venkatesh">LinkedIn</a>
 </p>
